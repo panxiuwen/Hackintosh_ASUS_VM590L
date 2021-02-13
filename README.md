@@ -12,7 +12,7 @@ Audio Adapter: ALC3236
 
 LAN: RealtekRTL8111
 
-Wireless network adapter: fix your self
+Wireless network adapter: Please fix it youself...
 
 # Issue
 
