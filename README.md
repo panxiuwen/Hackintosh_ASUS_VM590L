@@ -6,17 +6,27 @@ Opencore version: 0.66
 
 Motherboard: X555LD
 
-i5 4210u+840M(disable)
+Intel Core i5 4210u and HD4400
 
-Audio Adapter: ALC3236
+NVIDIA GEFORCE 840M (disabled)
+
+Audio: ALC3236
 
 LAN: RealtekRTL8111
 
-Wireless network adapter: Please fix it youself...
+Wireless: Intel 7260AC
 
-# Issue
+SD card reader (It's broken)
+
+# Work
 
 Brightness adjustment
+
+Wireless (HeliPort needed)
+
+Bluetooth
+
+# Issue
 
 display remaining battery
 
