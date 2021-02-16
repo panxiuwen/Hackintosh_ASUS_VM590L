@@ -28,6 +28,6 @@ Bluetooth
 
 # Issue
 
-display remaining battery
+Display remaining battery
 
-sleep/wake
+Sleep/wake
